@@ -9,7 +9,7 @@ En ese curso puedes aprender cosas como:
 - Conocer un flujo de trabajo.
 1.Hacer cosas como estas de editar un README
 
-Si quieres saber **más** del curso puedes dar clic [**aquí**](http://https://platzi.com/clases/git-github/ "aquí").
+Si quieres saber **más** del curso puedes dar clic [**aquí**](https://platzi.com/clases/git-github/ "aquí").
 
 ### _Y no lo olvides..._
 >##Nunca pares de aprender
