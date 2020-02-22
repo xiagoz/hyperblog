@@ -1,4 +1,6 @@
 #Hyperblog 🧡
+-
+
 > El curso de git y github de platzi es muy completo y el profesor que imparte la clase te explicas las cosas de manera clara.
 > - Christian Gómez
 
@@ -12,4 +14,6 @@ Si quieres saber **más** del curso puedes dar clic [**aquí**](https://platzi.c
 
 ### _Y no lo olvides..._
 ##Nunca pares de aprender
+-
+
 [![hole](https://i.imgur.com/1tBszdu.jpg "hole")](https://i.imgur.com/1tBszdu.jpg "hole")
