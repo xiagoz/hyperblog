@@ -7,8 +7,7 @@ En ese curso puedes aprender cosas como:
 - github pages
 - Configurar git con llaves privadas SSH
 - Conocer un flujo de trabajo.
-
-***1.Hacer cosas como estas de editar un README***
+- Hacer cosas como estas de editar un READMe
 
 Si quieres saber **más** del curso puedes dar clic [**aquí**](https://platzi.com/clases/git-github/ "aquí").
 
