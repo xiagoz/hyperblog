@@ -1,4 +1,4 @@
-#Hyperblog 🧡
+Hyperblog 🧡
 -
 
 > El curso de git y github de platzi es muy completo y el profesor que imparte la clase te explicas las cosas de manera clara.
@@ -13,7 +13,7 @@ En ese curso puedes aprender cosas como:
 Si quieres saber **más** del curso puedes dar clic [**aquí**](https://platzi.com/clases/git-github/ "aquí").
 
 ### _Y no lo olvides..._
-##Nunca pares de aprender
+Nunca pares de aprender
 -
 
 [![hole](https://i.imgur.com/1tBszdu.jpg "hole")](https://i.imgur.com/1tBszdu.jpg "hole")
