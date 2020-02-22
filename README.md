@@ -1,4 +1,4 @@
-#Hyperblog 🧡
+Hyperblog 🧡
 
 
 > El curso de git y github de platzi es muy completo y el profesor que imparte la clase te explicas las cosas de manera clara.
