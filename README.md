@@ -18,3 +18,4 @@ Si quieres saber **más** del curso puedes dar clic [**aquí**](https://platzi.c
 
 ### Creado por el Increíble Christan...
 - Incluye explicaciones del gt stash, clean y cherry-pick
+- Disponible ahora mismo.
