@@ -17,3 +17,4 @@ Si quieres saber **más** del curso puedes dar clic [**aquí**](https://platzi.c
 [![hole](https://i.imgur.com/1tBszdu.jpg "hole")](https://i.imgur.com/1tBszdu.jpg "hole")
 
 ### Creado por el Increíble Christan...
+- Incluye explicaciones del gt stash, clean y cherry-pick
